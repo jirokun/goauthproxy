@@ -1,0 +1,4 @@
+port: 8080
+proxyhost: "localhost:3128"
+proxyuser: jirokun
+proxypass: password
